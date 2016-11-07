@@ -231,6 +231,3 @@ eScience Center.',
 );
 
 ?>
-
- 
-
